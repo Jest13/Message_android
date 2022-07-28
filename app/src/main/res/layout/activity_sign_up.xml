@@ -83,7 +83,7 @@
             android:layout_marginTop="10dp"
             android:backgroundTint="@color/colorPrimary"
             android:padding="15dp"
-            android:text="Connexion"
+            android:text="Enregistrer mon compte "
             android:textAllCaps="false"
             app:cornerRadius="8dp" />
 
