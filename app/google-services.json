@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1004223524219",
+    "firebase_url": "https://message-1b800-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "message-1b800",
     "storage_bucket": "message-1b800.appspot.com"
   },
